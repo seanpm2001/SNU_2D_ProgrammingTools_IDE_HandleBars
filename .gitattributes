@@ -36,6 +36,9 @@
 *.hbs linguist-detectable=true
 *.hbs linguist-documentation=false
 *.hbs linguist-language=Handlebars
+*.handlebars linguist-detectable=true
+*.handlebars linguist-documentation=false
+*.handlebars linguist-language=Handlebars
 # JSON (JavaScript Object Notation) source file
 *.json linguist-detectable=false
 *.json linguist-documentation=false
@@ -174,6 +177,6 @@
 
 # File info
 # File type: gitattributes file (.gitattributes)
-# File version: 1 (2022, Monday, September 19th at 1:59 pm PST)
-# Line count (including blank lines and compiler line): 180
+# File version: 2 (2022, Monday, September 19th at 7:36 pm PST)
+# Line count (including blank lines and compiler line): 183
 # End of script
